@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[CyberSecurity]]></title>
-        <description><![CDATA[CyberSecurity]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Cyber Security Blog]]></title>
+        <description><![CDATA[Cyber Security Blog]]></description>
+        <link>https://thegrid.ai/cybersecurity/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 Nov 2015 16:41:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 15 Nov 2015 16:57:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cybersecurity/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Did the FBI pay Carnegie Mellon University $1m to hack Tor and reveal Silk Road 2 staff?]]></title>
+            <description><![CDATA[<article><h1>Did the FBI pay Carnegie Mellon University $1m to hack Tor and reveal Silk Road 2 staff?</h1><p>The Tor Project director claims the anonymous web browser was the victim of a $1m (£660,000) cyber attack orchestrated by the FBI and researchers at Carnegie Mellon University (CMU). Tor has branded the hack as a violation of trust that endangered innocent users.</p><img src="http://d.ibtimes.co.uk/en/full/1468949/tor-web-browser.jpg"></article>]]></description>
+            <link>http://www.ibtimes.co.uk/did-fbi-pay-carnegie-mellon-university-1m-hack-tor-reveal-silk-road-2-staff-1528354</link>
+            <guid isPermaLink="false">f41507dd-0062-4098-a718-2e8a95bc8a4d</guid>
+            <pubDate>Sun, 15 Nov 2015 16:57:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test]]></title>
             <description><![CDATA[<article><h1>Test</h1><p>This is a test</p></article>]]></description>
-            <link>undefinedtest/index.html</link>
+            <link>https://thegrid.ai/cybersecurity/test/index.html</link>
             <guid isPermaLink="false">e615814c-377a-423f-9c06-89f4f180dc01</guid>
             <pubDate>Sun, 15 Nov 2015 16:40:57 GMT</pubDate>
         </item>

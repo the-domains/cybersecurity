@@ -1,0 +1,23 @@
+name: CyberSecurity
+favicon: null
+layout_spectrum: 0.4759228841867298
+typography_spectrum: 0.2380390919279307
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8786700037308037
+  lightness: 0.2726481866557151
+  saturation: 0.18313397536985576
+  rhythmicContrast: 0.8925498006865382
+purpose: []

@@ -4,7 +4,7 @@
         <description><![CDATA[Cyber Security Blog]]></description>
         <link>https://thegrid.ai/cybersecurity/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 Nov 2015 18:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2015 18:19:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cybersecurity/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>http://www.ibtimes.co.uk/did-fbi-pay-carnegie-mellon-university-1m-hack-tor-reveal-silk-road-2-staff-1528354</link>
             <guid isPermaLink="false">f41507dd-0062-4098-a718-2e8a95bc8a4d</guid>
             <pubDate>Sun, 15 Nov 2015 16:57:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Test]]></title>
-            <description><![CDATA[<article><h1>Test</h1><p>This is a test</p></article>]]></description>
-            <link>https://thegrid.ai/cybersecurity/test/index.html</link>
-            <guid isPermaLink="false">e615814c-377a-423f-9c06-89f4f180dc01</guid>
-            <pubDate>Sun, 15 Nov 2015 16:40:57 GMT</pubDate>
         </item>
     </channel>
 </rss>

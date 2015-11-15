@@ -4,8 +4,15 @@
         <description><![CDATA[Cyber Security Blog]]></description>
         <link>https://thegrid.ai/cybersecurity/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 Nov 2015 16:57:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2015 18:19:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cybersecurity/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The latest Tweets from LDSC (@LondonDSC). LDSC aims to secure and protect #London SMEs against #cyber risks and threats. Check out our website for tips on #cybersecurity and our business services. London, England</p>]]></description>
+            <link>https://twitter.com/LondonDSC</link>
+            <guid isPermaLink="false">7f1ae3aa-045c-4021-a0b3-c287779fb823</guid>
+            <pubDate>Sun, 15 Nov 2015 18:19:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Did the FBI pay Carnegie Mellon University $1m to hack Tor and reveal Silk Road 2 staff?]]></title>
             <description><![CDATA[<article><h1>Did the FBI pay Carnegie Mellon University $1m to hack Tor and reveal Silk Road 2 staff?</h1><p>The Tor Project director claims the anonymous web browser was the victim of a $1m (£660,000) cyber attack orchestrated by the FBI and researchers at Carnegie Mellon University (CMU). Tor has branded the hack as a violation of trust that endangered innocent users.</p><img src="http://d.ibtimes.co.uk/en/full/1468949/tor-web-browser.jpg"></article>]]></description>

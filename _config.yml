@@ -1,20 +1,4 @@
-name: CyberSecurity
-favicon: null
-layout_spectrum: 0.4759228841867298
 typography_spectrum: 0.2380390919279307
-title: Cyber Security Blog
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,21 @@ color:
   lightness: 0.2726481866557151
   saturation: 0.18313397536985576
   rhythmicContrast: 0.8925498006865382
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4759228841867298
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: CyberSecurity
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Cyber Security Blog
+description: One Stop Shop for Cyber Security Information
 purpose: []
